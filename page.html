@@ -15,10 +15,14 @@
         }
         div#box {
         }
+        div#top {
+            width: 100%;
+            height: 80px;
+        }
         div#header {
-            padding: 1em;
-            padding-left: 65px;
-            background: url("images/rn.png") left no-repeat;
+            width: 320px;
+            float: left;
+            position: relative;
         }
 
         div#menu, div#content, div#footer {
@@ -27,6 +31,10 @@
         div#menu {
             background-color: #333333;
             padding: 0.6em 0 0.6em 0;
+            width: 50%;
+            margin-top: 16px;
+            float: right;
+            position: relative;
         }
         #menu span {
             font-weight: bold;
@@ -68,8 +76,9 @@
 </head>
 <body>
     <div id="box">
+    <div id="top">
     <div id="header">
-         <h1>RespectableName</h1>
+    <img src="images/header.png" /> 
     </div>
     <div id="menu">
     <!--%
@@ -80,6 +89,7 @@
             style = "current" if p["title"] == page["title"] else ""
             print(entry % (style, p["url"], hx(p["title"])))
     %-->
+    </div>
     </div>
     <div id="content">{{ __content__ }}</div>
     </div>
