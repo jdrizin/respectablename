@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf8" />
-    <title>poole - {{ hx(page["title"]) }}</title>
+    <title>RespectableName - {{ hx(page["title"]) }}</title>
     <meta name="description" content="{{ hx(page.get("description", "a poole site")) }}" />
     <meta name="keywords" content="{{ hx(page.get("keywords", "poole")) }}" />
     <style type="text/css">
@@ -14,7 +14,13 @@
         }
         div#box {
         }
-        div#header, div#menu, div#content, div#footer {
+        div#header {
+            padding: 1em;
+            padding-left: 65px;
+            background: url("images/rn.png") left no-repeat;
+        }
+
+        div#menu, div#content, div#footer {
             padding: 1em;
         }
         div#menu {
@@ -62,8 +68,7 @@
 <body>
     <div id="box">
     <div id="header">
-         <h1>a poole site</h1>
-         <h2>{{ hx(page["title"]) }}</h2>
+         <h1>RespectableName</h1>
     </div>
     <div id="menu">
     <!--%
