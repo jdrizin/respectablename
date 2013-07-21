@@ -1,9 +1,8 @@
-menu-position:6
-Title: Resumé
-Description: The personal resumé of Josh Drizin
-Author: Josh Drizin
-Date: 2013/06/23
-Robots: noindex,nofollow
+menu-position:2
+title: resumé
+description: The personal resumé of Josh Drizin
+author: Josh Drizin
+date: 2013/06/23
 ---
 Joshua M Drizin
 josh [AT] respectablename.com

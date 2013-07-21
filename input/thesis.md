@@ -1,9 +1,8 @@
-menu-position:5
-Title: Thesis
-Description: Thesis
-Author: Josh Drizin
-Date: 2013/06/23
-Robots: noindex,nofollow
+menu-position:3
+title: thesis
+description: Thesis
+author: Josh Drizin
+date: 2013/06/23
 ---
 
 # Intro
