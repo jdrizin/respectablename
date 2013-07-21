@@ -139,6 +139,13 @@ Hygroscopic response was not associated with distance moved along the ground for
 <tr><td>Histogram of distance traveled over the paper substrate by the seeds. Seeds did not travel far, instead moving mostly back and forth. One seed from each species traveled farther than one child</td></tr></table>  
 
 # Conclusions
+## Adaptive traits
+
+* Variation - yes
+* Heritability - maybe
+* Ground movement - uncommon
+
+We see differences within the Minnesota population and among the distributed populations. These differences may be indicative of local adaptations. While movement is uncommon, it may still occur over the course of several days. If this hygroscopic movement improves fitness in other ways, like moving through duff, it would be wise to puchase seed as locally as possible, to maximize the viability of a restoration project.
 
 # Further reading
 My thesis (pdf)

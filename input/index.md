@@ -1,19 +1,12 @@
-
-title: home
-menu-position: 0
+menu-position: 1
+Title: RespectableName
+Description: The personal website of Josh Drizin. Resume and thesis.
+Author: Josh Drizin
+Date: 2013/06/23
+Robots: noindex,nofollow
 ---
+<img align="right" src="/images/josh_field.jpg" />
+<br /><br /><br />
+Josh Drizin is a plant ecologist interested in in using new technology to improve the scientific process. And trees and flowers and stuff. 
 
-## Welcome to Poole
-
-In Poole you write your pages in [markdown][md]. It's easier to write
-markdown than HTML.
-
-Poole is made for simple websites you just want to get done, without installing
-a bunch of requirements and without learning a template engine.
-
-In a build, Poole copies every file from the *input* directory to the *output*
-directory. During that process every markdown file (ending with *md*, *mkd*,
-*mdown* or *markdown*) is converted to HTML using the project's `page.html`
-as a skeleton.
-
-[md]: http://daringfireball.net/projects/markdown/
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
