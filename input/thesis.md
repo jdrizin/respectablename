@@ -33,22 +33,21 @@ The adapatations to improve dispersal are as varied as the impediments they surm
 An awn is a bristle-like appendage found on some grass seeds. Passive awns are simple structures, derived from maternal tissue. The awn can aid in wind dispersal and in keeping the seed oriented downwards during dispersal.
 
 
-<table><tr><td> Active awns</td></tr>
+<table><tr><th> Active awns</th></tr>
 <tr><td><iframe width="640" height="360" src="//www.youtube.com/embed/gKLjriiLWP8" frameborder="0" allowfullscreen></iframe></td></tr>
-<tr><td>*Hesperostipa spartea*, needle and thread grass. Seeds spinning as humidity drops. 50x speedup.</td></tr></table>  
+<tr><td><em>Hesperostipa spartea</em>, needle and thread grass. Seeds spinning as humidity drops. 50x speedup.</td></tr></table>  
 
 An active awn differs from a passive awn in that it has two distinct parts. One part, the hygroscopic section, is closer to the seed itself and reacts to changes in humidity by twisting. The stiff, passive section attached to that has been shown to cause the seeds of several grasses to self-bury in the soil or travel along the ground.
 
 <table><tr><td><img src="images/thesis/grass_line_drawing-small.png" ></td></tr>
-<tr><td>*Sorghastrum nutans* diaspore. The humidity-sensitive portion is proximal to the seed.</td></tr></table>  
+<tr><td><em>Sorghastrum nutans</em> diaspore. The humidity-sensitive portion is proximal to the seed.</td></tr></table>  
 
 ## Prairie
 The North American prairie once dominated the landscape of central North America, but has been reduced to under 3% of its original range, becoming greatly fragmented due to human settlement.
 
 
 <table><tr><td><img src="images/thesis/nap.gif" > </td></tr>
-<tr><td>Historical extent of the North American prairie </td></tr></table>  
-  
+<tr><td>Historical extent of the North American prairie </td></tr></table><br />
 <table><tr><td><img src="images/thesis/prairie.jpg" > </td></tr>
 <tr><td>Minnesota prairie </td></tr></table>  
   
@@ -91,8 +90,8 @@ Seeds were collected from remnant and restoration populations in Douglas County,
 There was little evidence of a relationship between maternal and offspring hygroscopicity in either species (*Andropogon*: ½H²=0.14, 95%CI -0.15 – 0.50, p= 0.17 ; *Sorghastrum*: ½H²=2.4, 95%CI -11 – 16.7, p= 0.19). Hygroscopic response differed among individual maternal plants for both *Andropogon* (p= 0.002, r² = 0.23) and *Sorghastrum* (p < 0.001 , r²= 0.30). *Andropogon* and *Sorghastrum* awns completed one revolution in 6 and 4 minutes, respectively. There was no evidence that collection site or site type were related to hygroscopicity in either model (Andropogon: p = 0.28, Sorghastrum: p = 0.12).
 
 <table><tr><td><img src="images/thesis/maternal-histogram.png" > </td></tr>
-<tr><td>The amount of time taken to complete one full revolution by maternal line.</td></tr></table>  
-  
+<tr><td>The amount of time taken to complete one full revolution by maternal line.</td></tr></table><br />
+
 <table><tr><td><img src="images/thesis/heritability-agsn.png" > </td></tr>
 <tr><td>Estimate of heritability for each species.FIXME </td></tr></table>  
   
@@ -112,7 +111,7 @@ Seeds were selected from each population and their hygroscopic response was asse
 Hygroscopic response did not differ among the five populations in *Andropogon* (p= 0.9). The awns of the Minnesota population took about 6 ± 4 minutes to complete a revolution while the North Carolina, Nebraska, New York, and Texas populations completed a revolution in 3 ± 1 minutes. Hygroscopic response also differed among populations of *Sorghastrum* (r²=0.16, p= 0.04). Minnesota and New York awns completed a revolution slowly, at 7.5 ± 3 minutes and 8.5 ± 5 minutes, respectively, compared to the faster 4-5 minutes of the North Carolina, Nebraska, and Texas  populations.
 
 <table><tr><td><img src="images/thesis/population-spins.png" > </td></tr>
-<tr><td>The average time for an awn to complete a full revolution by seed site and origin. The error bars are 95% confidence intervals. Sites are arranged from north to south.</td></tr>  
+<tr><td>The average time for an awn to complete a full revolution by seed site and origin. The error bars are 95% confidence intervals. Sites are arranged from north to south.</td></tr></table><br />
 
 ## Ground movement
 This experiment assessed the ability of the awn's motion to move the seed along the ground.
