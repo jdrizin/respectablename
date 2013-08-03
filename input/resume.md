@@ -21,22 +21,18 @@ Major in Biology with Ecology concentration; Minor in Chemistry
 ### Publications
 Drizin, J.D. 2012. Heritability and adaptive function of a hygroscopic response in two prairie grasses. Midwest Ecology and Evolution Conference (poster, abstract)
 
-Pope, N.S., J.M. Drizin. 2009. The effects of prescribed fire on two rare wildflowers (Sisyrinchium fuscatum and Helianthemum dumosum) in sandplain grassland on Nantucket Island, MA. Accepted, Nantucket Biodiversity Initiative (Abstract)
+Pope, N.S., J.M. Drizin. 2009. The effects of prescribed fire on two rare wildflowers (*Sisyrinchium fuscatum* and *Helianthemum dumosum*) in sandplain grassland on Nantucket Island, MA. Accepted, Nantucket Biodiversity Initiative (Abstract)
 
-McCall, A.C., J.M. Drizin, S.D. Fettig, and K.A. Sparks. 2007. Phenological differences in Vernonia gigantea affect seed predation but not pollination success. Accepted, Journal of the Ohio Academy of Sciences (Abstract)
+McCall, A.C., J.M. Drizin, S.D. Fettig, and K.A. Sparks. 2007. Phenological differences in *Vernonia gigantea* affect seed predation but not pollination success. Accepted, Journal of the Ohio Academy of Sciences (Abstract)
 
 ### Experience
-#### Chicago Botanic Garden - Database administrator
-Glencoe, IL - 9/2012 - 8/2013
+#### Chicago Botanic Garden - Glencoe, IL
+Database administrator - 9/2012 - 8/2013
 
  * Created and maintained a database and frontend for the collections and genetic components of the Zerega Lab's Artocarpus projects
  * Created distribution maps from collections data using R
- * 
- * 
- * 
  
-#### Chicago Botanic Garden - Field Leader and Lab Manager
-Kensington, Minnesota & Glencoe, IL – 6/2011 – 9/2012
+Field Leader and Lab Manager - 6/2011 - 9/2012
 
  * Collected data for a long-term field and garden study in Kensington, Minnesota
  * Managed an ongoing Hesperostipa spartea common garden project
@@ -46,47 +42,40 @@ Kensington, Minnesota & Glencoe, IL – 6/2011 – 9/2012
  * Wrote R scripts to automate some lab procedures and improve efficiency
  * Designed and collected data in for a Master’s thesis project
 
-#### Chicago Botanic Garden - Research Assistant
-
-Kensington, Minnesota – 6/2010 – 9/2010
+Research Assistant - 6/2010 - 9/2010
 
  * Collected data for a long-term field and garden study in Kensington, Minnesota
  * Designed and executed a protocol for georeferencing 15 years of survey data points
  * Managed an ongoing Hesperostipa spartea common garden project
  * Designed and collected data in preparation for creating a Master’s thesis project
 
-#### Nantucket Conservation Foundation - Field Assistant
-
-Nantucket, Massachusetts – 5/2009 – 11/2009
-
- * Fire effects monitoring
- * Rare plant species surveys
- * Prescribed burn crew member
- * Radio relocation of spotted turtles
- * Invasive species removal (manual and chemical)
-
-#### Bureau of Land Management - Botany / Wildlife Seasonal Intern
-
-Rawlins, Wyoming – 7/2008 – 11/2008
-
- * Collected seed and maintained records of collections for the Seeds of Success program for storage in the Millennium Seed Bank in Kew, Great Britain and for gas and oil reclamation projects
- * Identified plants associated with collected species using dichotomous keys
- * Monitored bluebird and bat house projects
-
-#### Chicago Botanic Garden - Research Assistant
-
-Kensington, Minnesota – 6/2007 – 8/2007
+Research Assistant - 6/2007 - 8/2007
 
  * Collected data for a long-term field and garden study in Kensington, Minnesota
  * Designed a method of photographing field sites using kite aerial photography
  * Developed a system of field site strategic markings used to assemble aerial photographs for research
 
+
+#### Nantucket Conservation Foundation - Nantucket, Massachusetts
+
+Field Assistant - 5/2009 - 11/2009
+
+ * Acquired Wildland Firefighter II certification and participated in prescribed burns in prairie habitat
+ * Surveyed for rare plant species
+ * Radio-relocated spotted turtles for a distribution study
+ * Removed invasive *Phragmites* from wetland properties
+
+#### Bureau of Land Management - Rawlins, Wyoming
+
+Botany / Wildlife Seasonal Intern - 7/2008 - 11/2008
+
+ * Collected seed and maintained records of collections for the Seeds of Success program for storage in the Millennium Seed Bank in Kew, Great Britain and for gas and oil reclamation projects
+ * Identified plants associated with collected species using dichotomous keys
+ * Monitored bluebird and bat house projects
+
 ### Additional skills
 
- * Experienced with R
- * Passable with Python
+ * Software: proficient with R, Linux, and Libre/MS Office. Familiar with Python and ArcGIS
  * Proficient with Topcon and Trimble GPS Units
- * Wildland Firefighter II Certification
- * Familiar with ArcGIS
- * Experienced in plant identification and collection procedures
+ * Wildland Firefighter II Certification (S130 / S190)
 
