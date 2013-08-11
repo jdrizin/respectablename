@@ -2,7 +2,7 @@ menu-position:2
 title: resumé
 description: The personal resumé of Josh Drizin
 author: Josh Drizin
-date: 2013/06/23
+date: 2013/08/11
 ---
 Joshua M Drizin
 
