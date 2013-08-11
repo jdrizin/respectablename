@@ -6,16 +6,16 @@ date: 2013/08/11
 ---
 Joshua M Drizin
 
-josh [AT] respectablename.com
+josh @ respectablename.com
 
 ### Education
 #### Northwestern University
-Evanston IL, in association with the Chicago Botanic Garden
-MSc in Plant Biology and Conservation
-Thesis title: Hygroscopic awns of two prairie grasses, Andropogon gerardii and Sorghastrum nutans
+Evanston IL, in association with the Chicago Botanic Garden  
+MSc in Plant Biology and Conservation  
+Thesis title: Hygroscopic awns of two prairie grasses, *Andropogon gerardii* and *Sorghastrum nutans* [PDF](files/drizin-thesis.pdf)
 
 #### Denison University
-Granville, OH
+Granville, OH  
 Major in Biology with Ecology concentration; Minor in Chemistry
 
 ### Publications
@@ -29,29 +29,23 @@ McCall, A.C., J.M. Drizin, S.D. Fettig, and K.A. Sparks. 2007. Phenological diff
 #### Chicago Botanic Garden - Glencoe, IL
 Database administrator - 9/2012 - 8/2013
 
- * Created and maintained a database and frontend for the collections and genetic components of the Zerega Lab's Artocarpus projects
- * Created distribution maps from collections data using R
+ * Created and maintained a database and frontend of 1200+ records for the herbarium collections and genetic components of the Zerega Lab's Artocarpus projects
+ * Generated distribution maps from collections data using R
  
 Field Leader and Lab Manager - 6/2011 - 9/2012
 
- * Collected data for a long-term field and garden study in Kensington, Minnesota
- * Managed an ongoing Hesperostipa spartea common garden project
- * Led the student research team in the field
- * Managed a team of volunteers in the processing of material and data from the field season.
+ * Devised a more efficient GPS protocol that saved at least 200 work-hours per year 
+ * Led an 8-person student research team in the field and managed 12 volunteers in the lab
  * Coordinated the summer field assistant application process
- * Wrote R scripts to automate some lab procedures and improve efficiency
- * Designed and collected data in for a Master’s thesis project
+ 
 
 Research Assistant - 6/2010 - 9/2010
 
  * Collected data for a long-term field and garden study in Kensington, Minnesota
  * Designed and executed a protocol for georeferencing 15 years of survey data points
- * Managed an ongoing Hesperostipa spartea common garden project
- * Designed and collected data in preparation for creating a Master’s thesis project
-
+ 
 Research Assistant - 6/2007 - 8/2007
 
- * Collected data for a long-term field and garden study in Kensington, Minnesota
  * Designed a method of photographing field sites using kite aerial photography
  * Developed a system of field site strategic markings used to assemble aerial photographs for research
 
@@ -78,4 +72,3 @@ Botany / Wildlife Seasonal Intern - 7/2008 - 11/2008
  * Software: proficient with R, Linux, and Libre/MS Office. Familiar with Python and ArcGIS
  * Proficient with Topcon and Trimble GPS Units
  * Wildland Firefighter II Certification (S130 / S190)
-
