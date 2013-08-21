@@ -5,7 +5,6 @@ date: 2013/07/26
 ---
 <script type="text/javascript" src="/js/jquery-2.0.3.min.js" > </script>
 <script type="text/javascript" src="/js/github-files.js" > </script>
-<link rel="stylesheet" href="/js/hilight.css">
 <script src="/js/highlight.pack.js"></script>
 
 ## Control script
