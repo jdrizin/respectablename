@@ -13,7 +13,7 @@ suspension, and a distance-marked kitestring. I came up with some ground markers
 that would allow us to stitch images together and we managed to get the kite 
 going several times. Unfortunately, we never quite got the height we wanted 
 and the kite-surveying idea never really panned out. We got some neat photos 
-though.
+though. Find some more info on [the Echinacea Field Log](http://blog.lib.umn.edu/wage0005/echinacea/projects/kap/)
 
 If I were to tackle this again, I'd just get a quadcopter. It was a nightmare 
 trying to get the camera to go where you wanted with the kitestring and you 
