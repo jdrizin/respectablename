@@ -1040,8 +1040,11 @@ small {
 
 code {
   font-family: Consolas, "Liberation Mono", Courier, monospace;
-  font-weight: bold;
-  color: #7f0a0c; }
+  font-weight:400;
+  color: #7f0a0c; 
+  border-style:dashed; 
+  border-width:1px ;
+  padding:5px ;}
 
 /* Lists */
 ul,
