@@ -1,4 +1,4 @@
-menu-position: 4
+submenu-position: 2
 title: projects
 description: Various projects that I have been working on.
 author: Josh Drizin
