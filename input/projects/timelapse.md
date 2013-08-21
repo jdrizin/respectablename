@@ -2,7 +2,7 @@ title: timelapse
 description: some information about time-lapse photography
 author: Josh Drizin
 date: 2013/07/26
-submenu-position:1
+submenu-position:2
 ---
 <script src="/js/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>

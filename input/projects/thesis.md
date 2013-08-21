@@ -1,4 +1,4 @@
-menu-position:3
+submenu-position:1
 title: thesis
 description: Thesis
 author: Josh Drizin
