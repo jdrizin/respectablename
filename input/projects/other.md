@@ -4,6 +4,22 @@ description: other projects that don't need their own whole page
 author: Josh Drizin
 date: 2013/08/22
 ---
+## Kite aerial photography
+In 2007, Stuart suggested we send an expensive camera up in a kite. So we did. 
+We had a kite the size of a queen-sized bed that would lift up the dSLR in 3mph 
+winds, a camera with remote control in a 
+[picavet](http://www.kaper.us/basics/BASICS_picavet.html) 
+suspension, and a distance-marked kitestring. I came up with some ground markers 
+that would allow us to stitch images together and we managed to get the kite 
+going several times. Unfortunately, we never quite got the height we wanted 
+and the kite-surveying idea never really panned out. We got some neat photos 
+though.
+
+If I were to tackle this again, I'd just get a quadcopter. It was a nightmare 
+trying to get the camera to go where you wanted with the kitestring and you 
+don't have great control. The quadcopter gives you decent stability for a 
+relatively modest price and should be easier to deal with than a kite.
+
 ## ggmap and R
 I have been building some maps in R with ggmap. You can see some of the code 
 [online](https://github.com/jdrizin/artocarpus-mapping)
