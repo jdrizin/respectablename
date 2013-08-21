@@ -2469,6 +2469,7 @@ form.custom {
     visibility: hidden;
     z-index: 99; }
     .top-bar-section .dropdown li {
+
       width: 100%; }
       .top-bar-section .dropdown li a {
         font-weight: normal;
@@ -2572,7 +2573,7 @@ form.custom {
       min-width: 100%; }
       .top-bar-section .dropdown li a {
         color: white;
-        line-height: 1;
+        line-height: 31px;
         white-space: nowrap;
         padding: 7px 15px;
         background: #1e1e1e; }
