@@ -22,3 +22,8 @@ nav a,
 .page-header h1 {
 	text-transform: capitalize;
 }
+
+/* josh's stuff */
+.img-right {
+        float: right;
+    }
