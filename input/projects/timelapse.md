@@ -34,8 +34,7 @@ I had to work around this issue.
 Turns out, many cameras have a way of storing information for use in EXIF tags. 
 The ownername is a convenient tag for this and should be available on every 
 camera supported by gphoto2. If you plug in only one camera at a time, you can 
-set this using gphoto2 from the command 
-line:
+set this using gphoto2 from the command line:
 
 <pre><code> gphoto2 --set-config ownername="foo"</code></pre><br />
 This works around the uniqueness issue and makes the camera script relatively 
@@ -43,14 +42,19 @@ hardware-agnostic, provided the hardware can use the ownername field. I wrote a
 control script in Python.
 
 Notes:
+
  * running Linux
  * gphoto2 is in your $PATH
  * defaults to --capture-and-download
  * the script dumps images in the current path
  * provides default values for number of frames to collect and interval time
 
-OSX users may be able to use this script with slight modification. Windows 
-users, good luck. You can find the up-to-date code [on Github](https://github.com/jdrizin/timelapse-utilities/blob/master/camera.py)
+OSX users may be able to use this script with slight modification, assuming 
+they install gphoto2 (eg from [brew](http://brew.sh/). Windows users, good 
+luck. Your included camera software may support time-lapse settings and google 
+suggests there are tools that help put this together, but I don't use Windows, so...
+
+You can find the up-to-date code [on Github](https://github.com/jdrizin/timelapse-utilities/blob/master/camera.py)
 
 ## Pulling out data
 
@@ -59,4 +63,5 @@ could just as easily use your favorite scripting solution. Since all I cared
 about was time, I used:
 
 <pre><code>exiv2 pr -g Exif.Image.DateTime </code></pre><br />
-and [dumped the output into R](https://github.com/jdrizin/Drizin-thesis-code/blob/master/10_extractTimestamps.r) for processing.
+and [dumped the output into R](https://github.com/jdrizin/Drizin-thesis-code/blob/master/10_extractTimestamps.r) 
+for processing. This probably could have been written nicely.
