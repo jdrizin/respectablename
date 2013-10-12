@@ -18,7 +18,7 @@ The adapatations to improve dispersal are as varied as the impediments they surm
 
 <figure>
 	<img src="/images/thesis/cenchrus-spinifex.jpg" />
-	<figcaption><em>Cenchrus spinifex</em>, coastal sandbur <br />The spines on the sandbur seed discourage predation. The spines can also improve dispersal by sticking to the feet and fur of animals. </figcaption>
+	<figcaption><em>Cenchrus spinifex</em>, coastal sandbur <br />The spines on the sandbur seed discourage predation.<br /> The spines can also improve dispersal by sticking <br />to the feet and fur of animals. </figcaption>
 </figure>
 
 <figure>
@@ -37,7 +37,7 @@ An awn is a bristle-like appendage found on some grass seeds. Passive awns are s
 
 <figure>
 	<iframe width="640" height="360" src="//www.youtube.com/embed/gKLjriiLWP8" frameborder="0" allowfullscreen></iframe>
-	<figcaption>Active awns <br /><em>Hesperostipa spartea</em>, needle and thread grass. Seeds spinning as humidity drops. 50x speedup. </figcaption>
+	<figcaption><em>Hesperostipa spartea</em>, or needle and thread grass, has seeds with active awns.<br /> The awns spin as humidity changes. 50x speedup. </figcaption>
 </figure>
 
 An active awn differs from a passive awn in that it has two distinct parts. One part, the hygroscopic section, is closer to the seed itself and reacts to changes in humidity by twisting. The stiff, passive section attached to that has been shown to cause the seeds of several grasses to self-bury in the soil or travel along the ground.
@@ -136,7 +136,7 @@ Hygroscopic response did not differ among the five populations in *Andropogon* (
 
 <figure>
 	<img src="/images/thesis/population-spins.png" />
-	<figcaption>The average time for an awn to complete a full revolution by seed site and origin. The error bars are 95% confidence intervals. Sites are arranged from north to south. </figcaption>
+	<figcaption>The average time for an awn to complete a full revolution by seed site and origin. The error bars are <br/>95% confidence intervals. Sites are arranged from north to south. </figcaption>
 </figure>
 
 ## Ground movement
@@ -167,7 +167,7 @@ Hygroscopic response was not associated with distance moved along the ground for
 
 <figure>
 	<img src="/images/thesis/distance-traveled.png" />
-	<figcaption>Histogram of distance traveled over the paper substrate by the seeds. Seeds did not travel far, instead moving mostly back and forth. One seed from each species traveled farther than one child </figcaption>
+	<figcaption>Histogram of distance traveled over the paper substrate by the seeds. Seeds did not travel far, instead moving <br />mostly back and forth. One seed from each species traveled farther than one child </figcaption>
 </figure>
 
 # Conclusions
