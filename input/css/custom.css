@@ -27,3 +27,38 @@ nav a,
 .img-right {
         float: right;
     }
+
+figure {
+    float: none;
+    clear: both;
+    display: table;
+        
+    margin: 0 auto;
+    padding: 15px 0 15px 0;
+
+}
+
+figure img {
+    vertical-align: bottom;
+    width: 100%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(0,0,0,0.7);
+}
+
+figure iframe {
+    vertical-align: bottom;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(0,0,0,0.7);
+}
+
+figure figcaption {
+    position: relative;
+    
+    background: rgba(0,0,0,0.7);
+    text-align: center;
+    color: #fff; 
+    padding: 10px;
+    max-width: 100%;
+}
