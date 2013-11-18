@@ -5,7 +5,12 @@ author: Josh Drizin
 date: 2013/06/23
 ---
 
+note - i'm still working on making the document more readable. I'm also still learning CSS, so please excuse weird captions.
+
+[Download a PDF copy of the thesis](http://respectablename.com/files/drizin-thesis.pdf)
+
 # Intro
+
 ## Adaptive traits
 To be considered an adaptive trait, the following conditions must be met:
 
