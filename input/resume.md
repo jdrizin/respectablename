@@ -10,7 +10,8 @@ josh @ respectablename.com
 #### Northwestern University
 Evanston IL, in association with the Chicago Botanic Garden  
 MSc in Plant Biology and Conservation  
-Thesis title: Hygroscopic awns of two prairie grasses, *Andropogon gerardii* and *Sorghastrum nutans* [PDF](files/drizin-thesis.pdf)
+Thesis title: Hygroscopic awns of two prairie grasses, *Andropogon gerardii* and *Sorghastrum nutans* [PDF](files/drizin-thesis.pdf)  
+Thesis funding: Northwestern Plant Biology and Conservation Award for MS Students  
 
 #### Denison University
 Granville, OH  
