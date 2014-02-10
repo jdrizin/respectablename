@@ -17,7 +17,7 @@ Granville, OH
 Major in Biology with Ecology concentration; Minor in Chemistry
 
 ### Publications
-Drizin, J.D. 2012. Heritability and adaptive function of a hygroscopic response in two prairie grasses. Midwest Ecology and Evolution Conference (poster, abstract)
+Drizin, J.M. 2012. Heritability and adaptive function of a hygroscopic response in two prairie grasses. Midwest Ecology and Evolution Conference (poster, abstract)
 
 Pope, N.S., J.M. Drizin. 2009. The effects of prescribed fire on two rare wildflowers (*Sisyrinchium fuscatum* and *Helianthemum dumosum*) in sandplain grassland on Nantucket Island, MA. Accepted, Nantucket Biodiversity Initiative (Abstract)
 
@@ -36,7 +36,6 @@ Field Leader and Lab Manager - 6/2011 - 9/2012
  * Led an 8-person student research team in the field and managed 12 volunteers in the lab
  * Coordinated the summer field assistant application process
  
-
 Research Assistant - 6/2010 - 9/2010
 
  * Collected data for a long-term field and garden study in Kensington, Minnesota
