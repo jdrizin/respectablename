@@ -25,6 +25,13 @@ Pope, N.S., J.M. Drizin. 2009. The effects of prescribed fire on two rare wildfl
 McCall, A.C., J.M. Drizin, S.D. Fettig, and K.A. Sparks. 2007. Phenological differences in *Vernonia gigantea* affect seed predation but not pollination success. Accepted, Journal of the Ohio Academy of Sciences (Abstract)
 
 ### Experience
+
+#### Girly Steel - Noblesville, IN
+Artist assistant - 5/2013 - present, other years periodically 
+
+ * Used sheet metal, rebar, and scrap metal to create unique pieces of art for the yard 
+ * Sold art directly to customers at several outdoor art fairs
+
 #### Chicago Botanic Garden - Glencoe, IL
 Database administrator - 9/2012 - 8/2013
 
